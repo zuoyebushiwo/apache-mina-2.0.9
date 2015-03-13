@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/mina-benchmarks/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-core/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-core/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-example/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-example/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-filter-compression/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-filter-compression/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-http/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-http/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-integration-beans/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-integration-beans/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-integration-jmx/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-integration-ognl/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-integration-xbean/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-integration-xbean/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-statemachine/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-statemachine/src/test/java"/>
+	<classpathentry kind="src" path="src/mina-transport-apr/src/main/java"/>
+	<classpathentry kind="src" path="src/mina-transport-serial/src/main/java"/>
+	<classpathentry kind="lib" path="src/mina-integration-xbean/target/mina-integration-xbean-2.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="src/mina-integration-xbean/target/mina-integration-xbean-2.0.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="src/mina-transport-serial/target/classes"/>
+</classpath>
